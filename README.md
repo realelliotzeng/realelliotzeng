@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Elliot+Zeng.;Front-End+Engineer+and+UI+Builder.;Working+with+Tauri%2C+Vue%2C+and+React.;Learning+Go+and+building+thoughtful+products." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Elliot+Zeng.;Front-End+Engineer+and+UI+Builder.;Welcome+to+my+space." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm Elliot, a front-end engineer who enjoys building polished, practical, and visually thoughtful interfaces.
+I'm Elliot, a front-end engineer.
 
 I currently work on desktop and interactive UI projects, with a strong interest in Tauri-based applications, modern front-end engineering, and product-oriented development. I care about how software feels in use, not only how it works.
 
@@ -62,15 +62,9 @@ I currently work on desktop and interactive UI projects, with a strong interest 
   <img src="https://github-profile-trophy.vercel.app/?username=realelliotzeng&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </div>
 
-## A Few Words About My Work
-
-I like interfaces that feel calm, clear, and intentional.
-
-I enjoy turning rough ideas into real products, especially when design and engineering need to move together. For me, good software is not only functional, but also readable, comfortable, and worth returning to.
-
 ## Philosophy
 
-> Build things that feel clear, calm, and useful.
+> Attention is all you need.
 
 ## Notes
 
