@@ -34,6 +34,23 @@ I currently work on desktop and interactive UI projects, with a strong interest 
 - Strengthening engineering depth while keeping strong design sensitivity
 - Exploring the balance between product thinking and implementation quality
 
+## GitHub Activity Graph
+
+<table>
+  <tr>
+    <th>
+      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=realelliotzeng&show_icons=true&theme=city_lights&bg_color=0000&hide_border=true" align="center" />
+    </th>
+    <th>
+      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=realelliotzeng&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" />
+    </th>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realelliotzeng&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=realelliotzeng's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
+</div>
+
 ## Tech Stack
 
 <div>
@@ -47,19 +64,6 @@ I currently work on desktop and interactive UI projects, with a strong interest 
   <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
   <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-</div>
-
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=realelliotzeng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realelliotzeng&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=realelliotzeng&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </div>
 
 ## Philosophy
